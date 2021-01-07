@@ -8,5 +8,23 @@
     <language>en</language>
     <copyright>Copyright © 2008–2020, Steve Francia e os autores do Hugo;
 Todos os direitos reservados.</copyright><atom:link href="https://amyzhao888.github.io/lucky999/pt/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Contato</title>
+        <link>https://amyzhao888.github.io/lucky999/pt/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://amyzhao888.github.io/lucky999/pt/contact/</guid>
+        <description>Veja como entrar em contato comigo.</description>
+      </item>
+    
+      <item>
+        <title>Lorem Ipsum</title>
+        <link>https://amyzhao888.github.io/lucky999/pt/posts/lorem-ipsum/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://amyzhao888.github.io/lucky999/pt/posts/lorem-ipsum/</guid>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus enim quis eros vulputate cursus.</description>
+      </item>
+    
   </channel>
 </rss>
